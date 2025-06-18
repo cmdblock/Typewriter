@@ -1,0 +1,10 @@
+[project]
+name = "typewriter"
+version = "0.1.0"
+description = "typing code Animation"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "keyboard>=0.13.5",
+    "pyautogui>=0.9.54",
+]
